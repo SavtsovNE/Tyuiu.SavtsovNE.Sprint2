@@ -17,7 +17,7 @@ namespace Tyuiu.SavtsovNE.Sprint2.Task2.V30
             Console.Title = "Спринт #2| Выполнил: Савцов Никита Евгеньевич | ИБКСб-24-1";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #2                                                               *");
-            Console.WriteLine("* Тема: Алгоритмы разветвляющейся структуры                               *");
+            Console.WriteLine("* Тема: Алгоритмы разветвляющейся структуры                                *");
             Console.WriteLine("* Задание #2                                                              *");
             Console.WriteLine("* Вариант #30                                                             *");
             Console.WriteLine("* Выполнил: Савцов Никита Евгеньевич | ИБКСб-24-1                                     *");

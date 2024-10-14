@@ -10,7 +10,7 @@ namespace Tyuiu.SavtsovNE.Sprint2.Task2.V30.Test
         [TestMethod]
         public void CheckDotInShadedArea()
         {
-            DataService ds = new DataService();
+            DataService ds = new DataService() ;
             int x = 4;
             int y = 4;
 
