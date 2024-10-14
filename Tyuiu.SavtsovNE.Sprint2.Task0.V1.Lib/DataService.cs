@@ -5,7 +5,8 @@ using System.Text;
 using System.Threading.Tasks;
 using tyuiu.cources.programming.interfaces.Sprint2;
 
-namespace Tyuiu.SavtsovNE.Sprint2.Task0.V1.Lib
+
+namespace Tyuiu.SavtsovNE.Sprint2.Task0.V1.Lib 
 {
     public class DataService : ISprint2Task0V1
     {
