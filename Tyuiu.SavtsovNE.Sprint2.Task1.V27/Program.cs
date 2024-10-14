@@ -12,7 +12,7 @@ namespace Tyuiu.SavtsovNE.Sprint2.Task1.V27
             int d = 333;
             bool[] res = new bool[6];
             res = ds.GetLogicOperations(a, b, c, d);
-            Console.WriteLine("***************************************************************************");
+            Console.WriteLine("*************************** ************************************************");
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ :                                                       *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("A - " + a);

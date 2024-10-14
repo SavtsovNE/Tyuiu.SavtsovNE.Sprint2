@@ -10,7 +10,7 @@ namespace Tyuiu.SavtsovNE.Sprint2.Task1.V27.Test
             [TestMethod]
             public void ValidGetCompareOperations()
             {
-                DataService ds = new DataService();
+                DataService ds = new DataService() ;
                 int a = 654;
                 int b = 325;
                 int c = 154;
