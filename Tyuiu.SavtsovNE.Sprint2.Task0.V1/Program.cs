@@ -19,7 +19,7 @@ namespace Tyuiu.SavtsovNE.Sprint2.Task0.V1
 
             Console.Title = "Спринт #2 | Выполнил: Савцов Никита Евгеньевич | ИБКСб-24-1";
             Console.WriteLine("***************************************************************************");
-            Console.WriteLine("* Спринт #2                                                               *");
+            Console.WriteLine("* Спринт #2                                                                *");
             Console.WriteLine("* Тема: Операции сравнения                                                *");
             Console.WriteLine("* Задание #0                                                              *");
             Console.WriteLine("* Вариант #1                                                              *");
