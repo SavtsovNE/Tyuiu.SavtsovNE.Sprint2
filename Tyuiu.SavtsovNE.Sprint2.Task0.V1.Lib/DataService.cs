@@ -12,7 +12,7 @@ namespace Tyuiu.SavtsovNE.Sprint2.Task0.V1.Lib
     {
         public bool[] GetCompareOperations(int x, int y)
         {
-            bool[] response = new bool[6] { x + y == 355, x - y != 111, y < x, y > x, y <= x, y >= x };
+            bool[] response = new bool[6] {x + y == 355, x - y != 111, y < x, y > x, y <= x, y >= x };
             return response;
         }
     }
