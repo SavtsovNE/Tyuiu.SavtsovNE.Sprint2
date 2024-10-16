@@ -23,7 +23,7 @@ namespace Tyuiu.SavtsovNE.Sprint2.Task6.V6.Lib
                         case 9: return "Девятка пик";
                         case 10: return "Десятка пик";
                         case 11: return "Валет пик";
-                        case 12: return "Дама пик";
+                        case 12: return "дама пик";
                         case 13: return "Король пик";
                         case 14: return "Туз пик";
                     }
